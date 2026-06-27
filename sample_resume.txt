@@ -1,0 +1,6 @@
+Abbas Rezaei
+
+Python Developer
+
+I have experience with Python, Git, GitHub, SQL, Django, and basic API development.
+I am currently learning FastAPI, Docker, and machine learning.
