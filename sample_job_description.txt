@@ -1,0 +1,2 @@
+We are looking for a Python Developer with experience in FastAPI, Docker, Git, REST API, PostgreSQL, and Linux.
+Knowledge of machine learning is a plus.
